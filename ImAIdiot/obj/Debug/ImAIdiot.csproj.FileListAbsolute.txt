@@ -1,0 +1,12 @@
+C:\Users\ryanz\source\repos\ImAIdiot\bin\Debug\ImAIdiot.exe.config
+C:\Users\ryanz\source\repos\ImAIdiot\bin\Debug\ImAIdiot.exe
+C:\Users\ryanz\source\repos\ImAIdiot\bin\Debug\ImAIdiot.pdb
+C:\Users\ryanz\source\repos\ImAIdiot\obj\Debug\ImAIdiot.csproj.AssemblyReference.cache
+C:\Users\ryanz\source\repos\ImAIdiot\obj\Debug\ImAIdiot.Properties.Resources.resources
+C:\Users\ryanz\source\repos\ImAIdiot\obj\Debug\ImAIdiot.csproj.GenerateResource.cache
+C:\Users\ryanz\source\repos\ImAIdiot\obj\Debug\ImAIdiot.csproj.CoreCompileInputs.cache
+C:\Users\ryanz\source\repos\ImAIdiot\obj\Debug\ImAIdiot.exe
+C:\Users\ryanz\source\repos\ImAIdiot\obj\Debug\ImAIdiot.pdb
+C:\Users\ryanz\source\repos\ImAIdiot\obj\Debug\ImAIdiot.MainForm.resources
+C:\Users\ryanz\source\repos\ImAIdiot\obj\Debug\ImAIdiot.SignIn.resources
+C:\Users\ryanz\source\repos\ImAIdiot\obj\Debug\ImAIdiot.frmNewPasswords.resources

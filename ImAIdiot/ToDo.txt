@@ -1,0 +1,30 @@
+﻿FileStream Website/Name, Password {Started}
+Read file and populate List
+
+Create add / delete / Edit for the List of passwords
+
+Encrypt data so when it file stream
+Unencrypt when it reads
+
+Create uninstall button giving u three options
+Delete file
+Leave Passwords/Names unencrypted
+
+        //Make iv when first creation
+        //Make key when sign-in password
+        //Save key in the database.
+        //Save iv ?? where
+
+frm  Form
+mnu  Form menu
+cmd  Command button
+chk  Check button
+opt  Radio button
+lbl  Text label
+txt  Text edit box
+pb   Picture box
+pic  Picture
+lst  List box
+cbo  Combo box
+tmr  Timer
+btn Button
